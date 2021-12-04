@@ -1,0 +1,116 @@
+#Contact iframe {
+    width: 100%;
+}
+
+.Contact_1 h3 {
+    display: inline;
+}
+
+.Contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.travel-mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel-mainDiv img {
+    width: 100%;
+
+}
+
+.travel-mainDiv hr {
+    width: 230px;
+}
+
+.travel-mainDiv h5,
+.travel-mainDiv p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+
+}
+
+.movie_head i {
+    float: right
+}
+
+.movie-text span {
+    color: #ff7700;
+}
+
+#marquee-1 {
+    background-color: crimson;
+}
+
+
+
+#marquee-2 {
+    background-color: cadetblue;
+}
+
+.enviornment_li {
+    margin-top: 13px;
+}
+
+.enviornment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px
+}
+
+.enviornment_li img {
+    border-radius: 30px;
+}
+
+.enviornment_li {
+    margin-top: 10px;
+}
+
+#img-kid {
+    border-radius: 75px;
+}
+
+#marquee-3 {
+    background-color: aqua;
+}
+
+.header-entrepreneur {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
